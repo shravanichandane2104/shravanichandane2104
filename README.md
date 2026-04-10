@@ -47,3 +47,10 @@ Here are some ideas to get you started:
 
 * LinkedIn: www.linkedin.com/in/shravani-chandane
 * Email: shravichandane@gmail.com
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanichandane2104&show_icons=true&theme=radical" />
+</p>
+
