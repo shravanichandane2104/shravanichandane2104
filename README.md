@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with me
 
-* LinkedIn: (add link)
-* Email: (add email)
+* LinkedIn: www.linkedin.com/in/shravani-chandane
+* Email: shravichandane@gmail.com
