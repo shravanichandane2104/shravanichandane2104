@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 <!--
-**shravanichandane2104/shravanichandane2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shravanichandane2104/shravanichandane2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<h1 align="center">Hi 👋, I'm Shravani Chandane</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Open+to+Opportunities&center=true&width=500&height=50">
+</p>
+
 
 Here are some ideas to get you started:
 
