@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 
 ## 🔥 Projects
 
-* 💬 AI Code Corrector – AI-based code review tool
-* 📈 Stock Trading Platform – Full-stack trading app
-* 📋 Task Manager – CRUD-based app
+* 🔗 [AI Code Corrector](https://github.com/shravanichandane2104/AI-Code-Corrector)
+* 🔗 [Stock Trading Platform](https://github.com/shravanichandane2104/Stock-Trading-Platform-Full-Stack-Web-App)
+* 🔗 [Task Manager](https://github.com/shravanichandane2104)
+
 
 ---
 
