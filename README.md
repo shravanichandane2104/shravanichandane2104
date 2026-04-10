@@ -54,3 +54,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=shravanichandane2104&show_icons=true&theme=radical" />
 </p>
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
