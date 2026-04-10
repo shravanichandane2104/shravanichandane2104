@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Shravani Chandane
+
+💻 Full Stack Developer | MERN Stack
+🎓 Computer Engineering Student
+
+---
+
+## 🚀 Skills
+
+* Frontend: React, HTML, CSS, JavaScript
+* Backend: Node.js, Express
+* Database: MongoDB, MySQL
+
+---
+
+## 🔥 Projects
+
+* 💬 AI Code Corrector – AI-based code review tool
+* 📈 Stock Trading Platform – Full-stack trading app
+* 📋 Task Manager – CRUD-based app
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: (add link)
+* Email: (add email)
